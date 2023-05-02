@@ -7,8 +7,8 @@ Display your picture of choice with adjustable blur and brightness. Dark theme i
 ## Download
 
 BetterDiscord Download: [https://betterdiscord.app/theme/Frosted%20Glass](https://betterdiscord.app/Download?id=40)  
-Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`  
-Vencord link: `https://raw.githubusercontent.com/DiscordStyles/FrostedGlass/deploy/FrostedGlass.theme.css`
+Powercord Install: `git clone https://github.com/Micker003/FrostedGlass`  
+Vencord link: `https://raw.githubusercontent.com/Micker003/FrostedGlass/deploy/FrostedGlass.theme.css`
 
 ## Contributing
 
